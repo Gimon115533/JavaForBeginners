@@ -27,6 +27,5 @@ class Search(unittest.TestCase):
     def tearDown(self):
         self.drv.close()
 
-
 if __name__ == '__main__':
     unittest.main()
